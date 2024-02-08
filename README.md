@@ -2,7 +2,7 @@
 
 Olá, Deixo no Branche "DataSet" o banco de dados que encontrei na internet, 
 
-produzido pelo tdmitch, https://github.com/tdmitch para para demosntração e testes.
+produzido pelo tdmitch [https://github.com/tdmitch]
 
 <img src="https://github.com/fabiobatistapinheiro/Dunder_Mifflin/blob/main/Imagens/jim-halpert-coffee-time.gif">
 
